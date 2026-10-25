@@ -1,0 +1,10 @@
+{
+  "id": "plain-path-relink",
+  "name": "Plain Path Relink",
+  "version": "1.0.0",
+  "minAppVersion": "1.1.0",
+  "description": "When you move notes or folders, rewrite plain-text paths that Obsidian does not update, such as paths in frontmatter or inline code, and log mentions left unchanged.",
+  "author": "goeun",
+  "authorUrl": "https://github.com/goeun23",
+  "isDesktopOnly": false
+}
